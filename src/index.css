@@ -1,0 +1,14 @@
+
+.form{
+  margin-top: 30px;
+}
+.viewer{
+  background-color: rgb(197, 175, 145);
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 15px;
+
+}
